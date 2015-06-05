@@ -1,0 +1,10 @@
+{
+  "name": "TwatBot",
+  "version": "0.0.1",
+  "description": "Relays shit in irc to twitter",
+  "main": "twat.js",
+  "dependencies": {
+    "irc": "*",
+    "twit": "^1.1.20"
+  }
+}
